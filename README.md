@@ -9,8 +9,7 @@
 I am a Full Stack Developer
 - I'm currently a B.tech ISE Student at CMRIT
 - :mailbox:Reach Me on : [Mail](basavakiran907@gmail.com)
-- [Linkedin](linkedin/basavakiran-bajulge.)
-
+- [Linkedin](https://www.linkedin.com/in/basavakiran-bajulge-4a1a60266/)
 ---
 
 ### Techstack I use :
